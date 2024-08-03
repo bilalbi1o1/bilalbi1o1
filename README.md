@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/Ry6p#google_vignette"  />
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif"  />
 
 - 💬 Ask me about **MERN, Next.js, Tailwind**
 
